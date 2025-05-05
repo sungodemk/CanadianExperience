@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/private/var/folders/35/tfbf18tn3sn94dvy8cv5vmdc0000gn/T/AppTranslocation/604DA0BD-C39B-43B6-BDB3-E21D43FBF8D6/d/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Darwin - 24.1.0 - arm64
+...
